@@ -30,8 +30,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
-      <change afterPath="$PROJECT_DIR$/Ergastirio2/2.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio3/3.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio3/3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio3/3.3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/kastik/GTI" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1lIfxCUNI9QeSqWepxP4X1lYzXi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,7 +78,7 @@
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
-    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -112,6 +120,7 @@
       <workItem from="1607348636808" duration="3525000" />
       <workItem from="1607352222020" duration="342000" />
       <workItem from="1607352597368" duration="1524000" />
+      <workItem from="1607354164452" duration="3417000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -134,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607352619740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="--init--">
+      <created>1607354237953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607354237953</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,10 +190,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="258" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1607292909397" />
-    <state x="583" y="174" width="424" height="509" key="FileChooserDialogImpl" timestamp="1607349292942">
+    <state x="583" y="174" width="424" height="509" key="FileChooserDialogImpl" timestamp="1607355511707">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="583" y="174" width="424" height="509" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607349292942" />
+    <state x="583" y="174" width="424" height="509" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607355511707" />
     <state x="672" y="330" key="Github.ShareDialog" timestamp="1607349392924">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -230,14 +246,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1556" height="436" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1607293459662" />
-    <state x="296" y="65" key="SettingsEditor" timestamp="1607352754590">
+    <state x="296" y="65" key="SettingsEditor" timestamp="1607355513625">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="296" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1607352754590" />
-    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1607354120300">
+    <state x="296" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1607355513625" />
+    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1607354247275">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607354120300" />
+    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607354247275" />
     <state x="604" y="342" width="381" height="174" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607349014196">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
