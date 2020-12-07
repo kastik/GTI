@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lIfxCUNI9QeSqWepxP4X1lYzXi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ergastirio4" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ergastirio4/Ask3" />
+      <recent name="$PROJECT_DIR$/Ergastirio4/Ask1" />
+      <recent name="$PROJECT_DIR$/Ergastirio4/Ask2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ergastirio4" />
+      <recent name="$PROJECT_DIR$/Ergastirio4" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ask4.2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GTI/Ergastirio4/Ask2/ask4.2.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.ask4.2.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="" />
+      <created>1607289772213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607289772213</updated>
+      <workItem from="1607289774392" duration="3815000" />
+      <workItem from="1607293873743" duration="1638000" />
+      <workItem from="1607295634329" duration="4066000" />
+      <workItem from="1607348636808" duration="245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607292909397">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="258" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1607292909397" />
+    <state width="1556" height="508" key="GridCell.Tab.0.bottom" timestamp="1607293609663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="508" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607293609663" />
+    <state width="1556" height="508" key="GridCell.Tab.0.center" timestamp="1607293609662">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="508" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1607293609662" />
+    <state width="1556" height="508" key="GridCell.Tab.0.left" timestamp="1607293609661">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="508" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1607293609661" />
+    <state width="1556" height="508" key="GridCell.Tab.0.right" timestamp="1607293609662">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="508" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1607293609662" />
+    <state width="1556" height="436" key="GridCell.Tab.1.bottom" timestamp="1607293459660">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607293459660" />
+    <state width="1556" height="436" key="GridCell.Tab.1.center" timestamp="1607293459658">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1607293459658" />
+    <state width="1556" height="436" key="GridCell.Tab.1.left" timestamp="1607293459658">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1607293459658" />
+    <state width="1556" height="436" key="GridCell.Tab.1.right" timestamp="1607293459659">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1607293459659" />
+    <state width="1556" height="436" key="GridCell.Tab.2.bottom" timestamp="1607293459663">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607293459663" />
+    <state width="1556" height="436" key="GridCell.Tab.2.center" timestamp="1607293459661">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1607293459661" />
+    <state width="1556" height="436" key="GridCell.Tab.2.left" timestamp="1607293459661">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1607293459661" />
+    <state width="1556" height="436" key="GridCell.Tab.2.right" timestamp="1607293459662">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="436" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1607293459662" />
+    <state x="296" y="65" key="SettingsEditor" timestamp="1607348883975">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="296" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1607348883975" />
+  </component>
+</project>

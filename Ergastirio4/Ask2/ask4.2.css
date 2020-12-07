@@ -1,0 +1,16 @@
+.datatable tr th{
+    background: #A7C942;
+}
+.second {
+    background: #EAF2D3;
+    border: black;
+}
+.datatable td{
+    border: solid #A7C942;
+}
+.datatable{
+    border-collapse: collapse;
+}
+.datatable:not(.second){
+    background: white;
+}
