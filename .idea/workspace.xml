@@ -119,7 +119,7 @@
       <workItem from="1607348636808" duration="3525000" />
       <workItem from="1607352222020" duration="342000" />
       <workItem from="1607352597368" duration="1524000" />
-      <workItem from="1607354164452" duration="7116000" />
+      <workItem from="1607354164452" duration="8464000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607357592365</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="--init--">
+      <created>1607361342626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607361342626</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,10 +267,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="296" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1607355513625" />
-    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1607357594277">
+    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1607361349400">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607357594277" />
+    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607361349400" />
     <state x="343" y="162" width="903" height="533" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607359614366">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
