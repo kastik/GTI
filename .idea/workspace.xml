@@ -30,8 +30,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
+      <change afterPath="$PROJECT_DIR$/Ergastirio1/Lab-1.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio1/test/Lab-1.1-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio1/1.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ergastirio3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask1/ask4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask1/ask4.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask2/ask4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask2/ask4.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask3/sem1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask3/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask3/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio5/5.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,25 +94,28 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ergastirio1/test" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ergastirio1/test" />
+      <recent name="$PROJECT_DIR$/Ergastirio1" />
+      <recent name="$USER_HOME$/Desktop" />
+      <recent name="$PROJECT_DIR$/Ergastirio4" />
+      <recent name="$PROJECT_DIR$/Ergastirio4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ergastirio4/Ask3/semesters" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask3" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask1" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Ergastirio4" />
-      <recent name="$PROJECT_DIR$/Ergastirio4" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager">
@@ -119,7 +145,10 @@
       <workItem from="1607348636808" duration="3525000" />
       <workItem from="1607352222020" duration="342000" />
       <workItem from="1607352597368" duration="1524000" />
-      <workItem from="1607354164452" duration="8464000" />
+      <workItem from="1607354164452" duration="8893000" />
+      <workItem from="1607363923538" duration="8034000" />
+      <workItem from="1607375241725" duration="2186000" />
+      <workItem from="1607377719537" duration="840000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -163,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607361342626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="--init--">
+      <created>1607363288583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607363288583</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,87 +233,5 @@
     <MESSAGE value="init" />
     <MESSAGE value="--init--" />
     <option name="LAST_COMMIT_MESSAGE" value="--init--" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="258" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607292909397">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="258" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1607292909397" />
-    <state x="545" y="288" width="500" height="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1607359553305">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="545" y="288" width="500" height="282" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860@0.0.1600.860" timestamp="1607359553305" />
-    <state x="583" y="174" width="424" height="509" key="FileChooserDialogImpl" timestamp="1607355511707">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="583" y="174" width="424" height="509" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1607355511707" />
-    <state x="672" y="330" key="Github.ShareDialog" timestamp="1607349392924">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="672" y="330" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1607349392924" />
-    <state width="1556" height="436" key="GridCell.Tab.0.bottom" timestamp="1607359589497">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607359589497" />
-    <state width="1556" height="436" key="GridCell.Tab.0.center" timestamp="1607359589497">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1607359589497" />
-    <state width="1556" height="436" key="GridCell.Tab.0.left" timestamp="1607359589496">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1607359589496" />
-    <state width="1556" height="436" key="GridCell.Tab.0.right" timestamp="1607359589497">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1607359589497" />
-    <state width="1556" height="436" key="GridCell.Tab.1.bottom" timestamp="1607359589498">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607359589498" />
-    <state width="1556" height="436" key="GridCell.Tab.1.center" timestamp="1607359589498">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1607359589498" />
-    <state width="1556" height="436" key="GridCell.Tab.1.left" timestamp="1607359589497">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1607359589497" />
-    <state width="1556" height="436" key="GridCell.Tab.1.right" timestamp="1607359589498">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1607359589498" />
-    <state width="1556" height="436" key="GridCell.Tab.2.bottom" timestamp="1607293459663">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.2.bottom/0.0.1600.860@0.0.1600.860" timestamp="1607293459663" />
-    <state width="1556" height="436" key="GridCell.Tab.2.center" timestamp="1607293459661">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.2.center/0.0.1600.860@0.0.1600.860" timestamp="1607293459661" />
-    <state width="1556" height="436" key="GridCell.Tab.2.left" timestamp="1607293459661">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.2.left/0.0.1600.860@0.0.1600.860" timestamp="1607293459661" />
-    <state width="1556" height="436" key="GridCell.Tab.2.right" timestamp="1607293459662">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1556" height="436" key="GridCell.Tab.2.right/0.0.1600.860@0.0.1600.860" timestamp="1607293459662" />
-    <state x="296" y="65" key="SettingsEditor" timestamp="1607355513625">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="296" y="65" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1607355513625" />
-    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2" timestamp="1607361349400">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="395" y="166" width="800" height="526" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1607361349400" />
-    <state x="343" y="162" width="903" height="533" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607359614366">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="343" y="162" width="903" height="533" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1607359614366" />
-    <state x="604" y="342" width="381" height="174" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607349014196">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state x="604" y="342" width="381" height="174" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1607349014196" />
   </component>
 </project>
