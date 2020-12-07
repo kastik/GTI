@@ -30,31 +30,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
-      <change afterPath="$PROJECT_DIR$/Ergastirio1/Lab-1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio1/test/Lab-1.1-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask4/ask4.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask4/lab4-4-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio1/1.1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio2/2.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask1/ask4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask1/ask4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask2/ask4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask2/ask4.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask3/sem1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask3/sem2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/semesters/sem2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask3/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask3/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ergastirio5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio5/5.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +72,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ergastirio1/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ergastirio4/Ask4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -105,10 +83,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Ergastirio4/Ask4" />
       <recent name="$PROJECT_DIR$/Ergastirio1/test" />
       <recent name="$PROJECT_DIR$/Ergastirio1" />
       <recent name="$USER_HOME$/Desktop" />
-      <recent name="$PROJECT_DIR$/Ergastirio4" />
       <recent name="$PROJECT_DIR$/Ergastirio4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -148,7 +126,7 @@
       <workItem from="1607354164452" duration="8893000" />
       <workItem from="1607363923538" duration="8034000" />
       <workItem from="1607375241725" duration="2186000" />
-      <workItem from="1607377719537" duration="840000" />
+      <workItem from="1607377719537" duration="4370000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -199,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607363288583</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="--init--">
+      <created>1607378712501</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607378712501</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
