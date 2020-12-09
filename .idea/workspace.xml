@@ -30,9 +30,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask4/ask4.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ergastirio4/Ask4/lab4-4-style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio3/3.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask4/ask4.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask4/ask4.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ergastirio4/Ask4/lab4-4-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Ergastirio4/Ask4/lab4-4-style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +72,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Ergastirio4/Ask4" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -126,7 +128,8 @@
       <workItem from="1607354164452" duration="8893000" />
       <workItem from="1607363923538" duration="8034000" />
       <workItem from="1607375241725" duration="2186000" />
-      <workItem from="1607377719537" duration="4370000" />
+      <workItem from="1607377719537" duration="5694000" />
+      <workItem from="1607531524539" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -184,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607378712501</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="--init--">
+      <created>1607382350458</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607382350459</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
