@@ -49,6 +49,28 @@
             box-sizing: border-box;
         }
 
+        /*The following are modifications of the originals and are only used in 3rd layout */
+        .nav3, .section3, .right3{
+            float: left;
+            padding: 20px;
+            min-height: 170px;
+            box-sizing: border-box;
+        }
+        .nav3 {
+            background: #DA251C;
+            width: 20%;
+        }
+
+        /* style for the CSS class "section" */
+        .section3 {
+            background: #BAB3D5;
+            width: 60%;
+        }
+        .right3{
+            background: #26149f;
+            width: 20%;
+        }
+
         /* style for the "h2" tag used inside an element of the CSS class "section" */
         .section h2 {
             color: white;
@@ -61,18 +83,11 @@
             text-align: center;
             padding-bottom: 10px;
         }
-        .newLayoutText{
-            text-align: center;
-            background-color: steelblue;
-            box-sizing: border-box;
-            padding: 20px;
-        }
-
     </style>
 </head>
 <body>
-<div><p class="newLayoutText">Layout 1</p></div>
 <div class="container">
+    <h1 style="text-align: center;font-weight: bold;font-size: 20px">Layout 1<br></h1>
     <div class="header">
         <h1>1. Header Frame (header)</h1>
     </div>
@@ -85,30 +100,41 @@
             <p>Lorem ipsum dolor sit amet</p>
         </div>
     </div>
+<h1 style="text-align: center;font-weight: bold;font-size: 20px">Layout 2<br></h1>
+<div class="header">
+    <h1>1. Header Frame (header)</h1>
 </div>
-
-<div><p class="newLayoutText">Layout 2</p></div>
-
-
-<div class="container">
-    <div class="container">
-        <div class="header">
-            <h1>1. Header Frame (header)</h1>
+<div>
+    <div class="nav">
+        <p>2. Left Frame (nav)</p>
+    </div>
+    <div class="section">
+        <h2>4. Center Frame</h2>
+        <p>Lorem ipsum dolor sit amet</p>
+    </div>
+</div>
+<div class="footer">
+    <p>3. Footer Frame (footer)</p>
+</div>
+    <h1 style="text-align: center;font-weight: bold;font-size: 20px">Layout 3<br></h1>
+    <div class="header">
+        <h1>1. Header Frame (header)</h1>
+    </div>
+    <div>
+        <div class="nav3">
+            <p>2. Left Frame (nav)</p>
         </div>
-        <div>
-            <div class="nav">
-                <p>2. Left Frame (nav)</p>
-            </div>
-            <div class="section">
-                <h2>4. Center Frame</h2>
-                <p>Lorem ipsum dolor sit amet</p>
-            </div>
+        <div class="section3">
+            <h2>4. Center Frame</h2>
+            <p>Lorem ipsum dolor sit amet</p>
         </div>
-        <div class="footer">
-            <p>3. Footer Frame (footer)</p>
+        <div class="right3">
+            <p>4</p>
         </div>
     </div>
+    <div class="footer">
+        <p>3. Footer Frame (footer)</p>
     </div>
-
+</div>
 </body>
 </html>
