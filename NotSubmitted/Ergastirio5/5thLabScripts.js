@@ -55,18 +55,19 @@ function showInfo(){
 }
 
 function getBrowserName(){
-    /* Code found on https://stackoverflow.com/questions/9847580/how-to-detect-safari-chrome-ie-firefox-and-opera-browser
-    since navigator.appName is not longer reliable and returns "Netscape" in latest browsers revisions */
-    if((!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0) return "Opera";
-    if(typeof InstallTrigger !== 'undefined') return "Firefox";
-    if(/constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && window['safari'].pushNotification)))return "Safari";
-    if(/*@cc_on!@*/!!document.documentMode)return "Internet Explorer";
-    if(!(/*@cc_on!@*/!!document.documentMode) && !!window.StyleMedia)return "Edge";
-    if(!!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime))return "Chrome";
-    if(isChrome && (navigator.userAgent.indexOf("Edg") != -1))return "Edge Chromium";
+    /* navigator.appName is not longer reliable and returns "Netscape" in all major browsers revisions so we need
+    to use a custom script instead. The following code was found on https://stackoverflow.com/a/9851769 and was
+    slightly modified for our needs, It checks for browser specific methods to determine the browser name*/
+    if((!!window.opr && !!opr.addons) || !!window.opera || navigator.userAgent.indexOf(' OPR/') >= 0)   return "Opera";
+    if(typeof InstallTrigger !== 'undefined')   return "Firefox";
+    if(/constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && window['safari'].pushNotification)))   return "Safari";
+    if(/*@cc_on!@*/!!document.documentMode) return "Internet Explorer";
+    if(!(/*@cc_on!@*/!!document.documentMode) && !!window.StyleMedia)   return "Edge";
+    if(!!window.chrome && (!!window.chrome.webstore || !!window.chrome.runtime))    return "Chrome";
+    if(isChrome && (navigator.userAgent.indexOf("Edg") != -1))  return "Edge Chromium";
 }
 
-//################## Lab 6 Function ##################
+//################## Lab 6 Functions ##################
 function getHost(){
     window.alert(location.hostname);
 }

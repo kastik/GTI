@@ -30,30 +30,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio1/Lab-1.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio1/Lab-1.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio2/2.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask1/ask4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask1/ask4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask2/ask4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask2/ask4.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +134,7 @@
       <workItem from="1607628198964" duration="7633000" />
       <workItem from="1607647911261" duration="1409000" />
       <workItem from="1607693260299" duration="6026000" />
-      <workItem from="1607700038792" duration="351000" />
+      <workItem from="1607700038792" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -249,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607541164879</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="--init--">
+      <created>1607700627059</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607700627059</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
