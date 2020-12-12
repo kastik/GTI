@@ -30,7 +30,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/Bluehills.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/Sunset.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/imgNotFound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-4b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,11 +80,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.1.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-2.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -99,12 +111,12 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="5.1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GTI/NotSubmitted/Ergastirio5/5.1.html" useBuiltInWebServerPort="true">
+    <configuration name="lab6-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GTI/NotSubmitted/Ergastirio6/lab6-2.html" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.5.1.html" />
+        <item itemvalue="JavaScript Debug.lab6-2.html" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +146,12 @@
       <workItem from="1607628198964" duration="7633000" />
       <workItem from="1607647911261" duration="1409000" />
       <workItem from="1607693260299" duration="6026000" />
-      <workItem from="1607700038792" duration="1598000" />
+      <workItem from="1607700038792" duration="3325000" />
+      <workItem from="1607706067611" duration="1244000" />
+      <workItem from="1607715478747" duration="1039000" />
+      <workItem from="1607729294522" duration="1752000" />
+      <workItem from="1607797172708" duration="2512000" />
+      <workItem from="1607810619093" duration="2691000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -234,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607700627059</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="--init--">
+      <created>1607702319536</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607702319536</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,8 +289,18 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="--init--" />
     <option name="LAST_COMMIT_MESSAGE" value="--init--" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JavascriptDebugType">
+        <watch expression="guess" language="HTML" />
+        <watch expression="numArray" language="HTML" />
+        <watch expression="guess!=0" language="HTML" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

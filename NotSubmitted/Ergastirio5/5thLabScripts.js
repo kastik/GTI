@@ -74,3 +74,7 @@ function getHost(){
 function getPath(){
     window.alert(location.pathname);
 }
+function f(){
+    document.getElementById("Name_of_list_box").value;
+    console.log(document.getElementById("Name_of_list_box"));
+}

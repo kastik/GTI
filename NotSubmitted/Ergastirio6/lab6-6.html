@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+    <TITLE> Διαχείριση λαθών</TITLE>
+    <meta charset="UTF-8">
+    <script>
+        function loadAnotherImg(imgId){
+            document.getElementById(imgId).src= "1548682.png"
+        }
+    </script>
+</HEAD>
+<BODY>
+<H1>Διαχείριση λαθών</H1>
+<P>Image χωρίς διαχείριση λαθών.
+    <IMG SRC="1.gif" NAME="Img1">
+<P>Image με διαχείριση λαθών.
+    <IMG SRC="1.gif" NAME="Img2" id="img2" onerror="loadAnotherImg('img2')">
+</BODY>
+</HTML>

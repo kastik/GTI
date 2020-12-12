@@ -1,0 +1,30 @@
+<!--
+a+10    Outputs 25
+b+'def' Outputs abcdef
+c+a     Outputs 1015
+b+d     Outputs abctrue
+a+d     Outputs 16
+-->
+<HTML>
+<HEAD>
+<TITLE>Listing 8-5</TITLE>
+<SCRIPT LANGUAGE="JavaScript">
+var a=15  //OUTPUTS
+var b='abc'
+var c='10'
+var d=true
+function evaluatecode( obj )
+{
+    document.getElementById("output").innerText=eval(obj.sDbg.value)
+}
+</SCRIPT>
+</HEAD>
+<body>
+<FORM NAME="frm" onsubmit="evaluatecode(this)">
+    <INPUT TYPE="text" NAME="sDbg" SIZE="100">
+    <INPUT TYPE="button" onclick="evaluatecode(frm)" VALUE="Run Code">
+</FORM>
+<div id="output"></div>
+</body>
+</HTML>
+
