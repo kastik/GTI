@@ -1,17 +1,16 @@
 <HTML>
 <HEAD>
-<SCRIPT>
-function evaluatecode( obj )
-{
-   document.getElementById("output").innerText=eval(obj.sDbg.value)
-}
-</SCRIPT>
-<TITLE>Listing 10-1</TITLE>
+    <SCRIPT>
+        function evaluatecode(obj) {
+            document.getElementById("output").innerText = eval(obj.sDbg.value)
+        }
+    </SCRIPT>
+    <TITLE>Listing 10-1</TITLE>
 </HEAD>
 <BODY>
 <FORM NAME="frm" onsubmit="evaluatecode(this)">
-  <INPUT TYPE="text" NAME="sDbg" SIZE="100">
-  <INPUT TYPE="button" onclick="evaluatecode(frm)" VALUE="Run Code">
+    <INPUT NAME="sDbg" SIZE="100" TYPE="text">
+    <INPUT TYPE="button" VALUE="Run Code" onclick="evaluatecode(frm)">
 </FORM>
 <div id="output"></div>
 </BODY>
