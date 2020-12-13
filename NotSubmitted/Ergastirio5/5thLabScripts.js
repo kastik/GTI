@@ -79,7 +79,7 @@ function getPath() {
     window.alert(location.pathname);
 }
 
-function f() {
+function f(x) {
     document.getElementById("Name_of_list_box").value;
     console.log(document.getElementById("Name_of_list_box"));
 }
