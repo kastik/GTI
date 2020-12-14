@@ -32,7 +32,12 @@
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/3.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/framesets/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio3/framesets/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +148,7 @@
       <workItem from="1607797172708" duration="2512000" />
       <workItem from="1607810619093" duration="4550000" />
       <workItem from="1607862524675" duration="6218000" />
-      <workItem from="1607898515673" duration="3984000" />
+      <workItem from="1607898515673" duration="4774000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -271,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607868276774</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="--init--">
+      <created>1607906694513</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607906694513</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

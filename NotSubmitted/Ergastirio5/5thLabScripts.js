@@ -25,16 +25,16 @@ function openLink() {
 }
 
 //################## Lab 3 Functions ##################
-//TODO
 var openedWindow;
 
 function openNewTabWithDefaultValues() {
-    openedWindow = window.open("https://facebook.com", "_blank", "menubar=no,height=200,width=200,status=no")
+    var url = document.getElementById("url").value
+    openedWindow = window.open(url, "_blank", "menubar=no,height=200,width=200,status=no")
 }
 
 function resizeCurrentWindow() {
-
-    console.log(height, width, openedWindow)
+    var height = document.getElementById("height").value
+    var width = document.getElementById("width").value
     openedWindow.resizeTo(width, height);
     openedWindow.focus();
 }

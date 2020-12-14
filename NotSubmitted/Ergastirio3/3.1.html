@@ -4,13 +4,20 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
     <title>Εργαστήριο 3 Άσκηση 1</title>
 </head>
-<frameset rows="20%,80%" frameborder="1" framespacing="1">
-<frameset rows="20%"  col="100%" frameborder="1" framespacing="1" >
-    <frame src="framesets/1.html" scrolling="no">
+
+
+<frameset frameborder="1" framespacing="1" rows="20%,80%">
+
+    <frameset col="100%" frameborder="1" framespacing="1" rows="20%">
+        <frame scrolling="no" src="framesets/1.html">
+    </frameset>
+
+    <frameset cols="25%,75%" frameborder="1" framespacing="1">
+        <frame scrolling="no" src="framesets/2.html">
+        <frame name="frame3" scrolling="no" src="framesets/3.html">
+    </frameset>
+
 </frameset>
-<frameset  cols="25%,75%" frameborder="1" framespacing="1" >
-    <frame src="framesets/2.html" scrolling="no">
-    <frame src="framesets/3.html" scrolling="no" name="frame3">
-</frameset>
-</frameset>
+
+
 </html>
