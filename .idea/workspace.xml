@@ -31,11 +31,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask1/ask4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask1/ask4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask2/ask4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio4/Ask2/ask4.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5.6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio5/5thLabScripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +147,9 @@
       <workItem from="1607797172708" duration="2512000" />
       <workItem from="1607810619093" duration="4550000" />
       <workItem from="1607862524675" duration="6218000" />
-      <workItem from="1607898515673" duration="6261000" />
+      <workItem from="1607898515673" duration="6281000" />
+      <workItem from="1607909409790" duration="49000" />
+      <workItem from="1607961100929" duration="1590000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -292,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607907706995</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="--init--">
+      <created>1607909278289</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1607909278289</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

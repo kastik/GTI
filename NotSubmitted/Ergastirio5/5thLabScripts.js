@@ -71,16 +71,14 @@ function getBrowserName() {
 }
 
 //################## Lab 6 Functions ##################
-//TODO
-function getHost() {
-    window.alert(location.hostname);
-}
 
-function getPath() {
-    window.alert(location.pathname);
-}
-
-function f(x) {
-    document.getElementById("Name_of_list_box").value;
-    console.log(document.getElementById("Name_of_list_box"));
+function ShowPathOrDomain() {
+    var x = document.getElementById("MyListBox").selectedIndex;
+    var y = document.getElementById("MyListBox").options;
+    console.log(y[0].value)
+    if (y[x].index == 0) {  //Index 0 == Domain
+        window.alert(location.hostname);
+    } else {               //Index == 1 == Path
+        window.alert(location.pathname);
+    }
 }
