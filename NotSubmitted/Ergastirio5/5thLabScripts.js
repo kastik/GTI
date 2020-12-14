@@ -71,6 +71,7 @@ function getBrowserName() {
 }
 
 //################## Lab 6 Functions ##################
+//TODO
 function getHost() {
     window.alert(location.hostname);
 }
