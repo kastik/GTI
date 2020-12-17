@@ -29,7 +29,20 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--" />
+    <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7thLabScripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,22 +102,26 @@
       <recent name="$PROJECT_DIR$/Ergastirio4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles" />
       <recent name="$PROJECT_DIR$/Submitted" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask3/semesters" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask3" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask1" />
-      <recent name="$PROJECT_DIR$/Ergastirio4/Ask2" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.5.6.html">
+  <component name="RunManager" selected="Node.js.7thLabScripts.js">
     <configuration name="5.6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GTI/NotSubmitted/Ergastirio5/5.6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="lab6-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GTI/NotSubmitted/Ergastirio6/lab6-2.html" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="7thLabScripts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7thLabScripts.js" working-dir="$PROJECT_DIR$/NotSubmitted/Ergastirio7">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.7thLabScripts.js" />
         <item itemvalue="JavaScript Debug.5.6.html" />
         <item itemvalue="JavaScript Debug.lab6-2.html" />
       </list>
@@ -146,6 +163,8 @@
       <workItem from="1607898515673" duration="6281000" />
       <workItem from="1607909409790" duration="49000" />
       <workItem from="1607961100929" duration="1883000" />
+      <workItem from="1608056727243" duration="216000" />
+      <workItem from="1608205669961" duration="11090000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -301,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607962965310</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="--init--">
+      <created>1608056902184</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1608056902188</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
