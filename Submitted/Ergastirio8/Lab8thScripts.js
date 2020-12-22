@@ -3,7 +3,7 @@ function getElement(event){
     var textInput = document.getElementById("textInput")
     var textArea = document.getElementById("textArea")
     textInput.value = event.target.tagName
-    textArea.value = event.target.valueOf()
+    textArea.value = event.target.innerText
 }
 //Lab 2
 function updateElement(event){
@@ -32,12 +32,20 @@ function updateTextColor(){
 
 }
 
-function lab8(){
-    var tag = document.getElementById("create").value
-    var color = document.getElementById("color").value
+function lab8a(){
+    var selectedTag = document.getElementById("tags").value
+    var selectedColor = document.getElementById("colors").value
     var div = document.getElementById("pnlCreate")
-    var newElement = document.createElement(tag)
-    newElement.style.backgroundColor=color
-    newElement.innerText="This is "+tag +" With "+color
+    var newElement = document.createElement(selectedTag)
+    newElement.createAttribute("style")
+    newElement.setAttribute("style",selectedColor)
+    newElement.innerText="This is "+selectedTag +" With "+selectedColor
     div.append(newElement)
+}
+function lab8b(){
+    var selectedTag = document.getElementById("tags").value
+    var selectedColor = document.getElementById("colors").value
+    var div = document.getElementById("pnlCreate")
+    div.innerHTML = "<"+selectedTag+" style='background-color:"+selectedColor+"'>Lab 8b"+"</"+selectedTag+">"
+    console.log(div.innerHTML)
 }

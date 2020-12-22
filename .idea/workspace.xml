@@ -30,10 +30,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.5b.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/Lab8thScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/Lab8thScripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7thLabScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7thLabScripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/imageFiles/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/imageFiles/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/imageFiles/3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.5a.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.5a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/Lab8thScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/Lab8thScripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +122,7 @@
     <configuration name="lab6-2.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GTI/NotSubmitted/Ergastirio6/lab6-2.html" useFirstLineBreakpoints="true" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="7thLabScripts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7thLabScripts.js" working-dir="$PROJECT_DIR$/NotSubmitted/Ergastirio7">
+    <configuration name="7thLabScripts.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Submitted/Ergastirio7/7thLabScripts.js" working-dir="$PROJECT_DIR$/Submitted/Ergastirio7">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -159,7 +173,9 @@
       <workItem from="1608205669961" duration="15120000" />
       <workItem from="1608226882005" duration="2759000" />
       <workItem from="1608404988188" duration="597000" />
-      <workItem from="1608466055098" duration="6314000" />
+      <workItem from="1608466055098" duration="7292000" />
+      <workItem from="1608483201721" duration="136000" />
+      <workItem from="1608645732625" duration="2307000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -336,7 +352,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608469803650</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="--init--">
+      <created>1608472469701</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1608472469701</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
