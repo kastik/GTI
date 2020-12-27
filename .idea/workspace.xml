@@ -30,24 +30,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f1ea29-3a4d-489f-bfe4-103a1493fe06" name="Default Changelist" comment="--init--">
-      <change afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.5b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/10.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/10.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/10.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/10thLabScripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/images/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio10/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9.7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/9thLabScripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/images/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NotSubmitted/Ergastirio9/images/3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7.6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7.6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/7thLabScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/7thLabScripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/imageFiles/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/imageFiles/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio7/imageFiles/3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/8.5a.html" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/8.5a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NotSubmitted/Ergastirio8/Lab8thScripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/Submitted/Ergastirio8/Lab8thScripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NotSubmitted/Ergastirio6/lab6-2.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NotSubmitted/Ergastirio10" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.stylelint" value="project" />
@@ -101,18 +102,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NotSubmitted/Ergastirio10" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask4" />
       <recent name="$PROJECT_DIR$/Ergastirio1/test" />
       <recent name="$PROJECT_DIR$/Ergastirio1" />
       <recent name="$USER_HOME$/Desktop" />
-      <recent name="$PROJECT_DIR$/Ergastirio4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles" />
+      <recent name="$PROJECT_DIR$/NotSubmitted/Ergastirio9/images" />
       <recent name="$PROJECT_DIR$/Submitted" />
+      <recent name="$PROJECT_DIR$/NotSubmitted/Ergastirio7/imageFiles" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask3/semesters" />
       <recent name="$PROJECT_DIR$/Ergastirio4/Ask3" />
-      <recent name="$PROJECT_DIR$/Ergastirio4/Ask1" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.7thLabScripts.js">
@@ -175,7 +176,11 @@
       <workItem from="1608404988188" duration="597000" />
       <workItem from="1608466055098" duration="7292000" />
       <workItem from="1608483201721" duration="136000" />
-      <workItem from="1608645732625" duration="2307000" />
+      <workItem from="1608645732625" duration="2414000" />
+      <workItem from="1608730349329" duration="2414000" />
+      <workItem from="1608888455971" duration="13575000" />
+      <workItem from="1609066999704" duration="9348000" />
+      <workItem from="1609080994368" duration="4000000" />
     </task>
     <task id="LOCAL-00001" summary="--init--">
       <created>1607349153363</created>
@@ -359,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608472469701</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="--init--">
+      <created>1608648080147</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1608648080147</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
