@@ -57,7 +57,7 @@ function confirmExit(event){
     }
 }
 
-function lab5(){
+function addRowsCols(){
     var tableObj = document.getElementById("myTable")
     var rows = document.getElementById("rows").value
     var cols = document.getElementById("cols").value
